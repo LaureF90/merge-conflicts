@@ -1,3 +1,4 @@
+LOCAL
 # merge-conflicts
 xxxxxx
 yyyyyy
